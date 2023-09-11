@@ -21,7 +21,7 @@ o	Usage
 
 •	Installation
 1)	Clone the repository to your local machine using git clone.
-2)	git clone https://github.com/your-username/ticketing-system.git
+2)	git clone https://github.com/IamDhruvDarji/ticketing_system.git
 3)	Navigate to the project directory.
 4)	cd ticketing-system
 5)	Run the main.py script to start the ticketing system.
